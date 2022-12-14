@@ -21,4 +21,4 @@ var cats = 44;
 var catsLine = 6;
 var lines = Math.ceil(cats/catsLine);
 var need = lines*catsLine-cats;
-console.log('ci sono ' + lines + ' file, servono ' + need + " gatti per completare l'ultima")
+console.log(lines, need)
