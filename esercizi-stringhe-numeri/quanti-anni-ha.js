@@ -14,4 +14,4 @@
 var year= 2022;
 var birth=1981;
 var age=year-birth;
-console.log(age,100-age);
+console.log(age,100-age)
