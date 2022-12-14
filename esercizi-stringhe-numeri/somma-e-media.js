@@ -16,4 +16,4 @@ var n5 = Math.floor(Math.random()*101);
 somma = n1+n2+n3+n4+n5;
 fattori = 5
 media = somma/fattori;
-console.log(somma,media); 
+console.log(somma,media);
