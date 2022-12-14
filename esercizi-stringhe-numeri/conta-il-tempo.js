@@ -16,4 +16,4 @@ var sec = 35732;
 var h = Math.floor(sec/3600);
 var m = Math.floor(sec%3600/60);
 var s = Math.floor(sec-(h*60*60)-(m*60));
-console.log(h,m,s);
+console.log(h,m,s)
